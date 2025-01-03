@@ -8,3 +8,6 @@ evaluate==0.4.0
 numpy==1.25.0
 ipywidgets
 absl-py
+rouge-score
+tqdm
+ipywidgets
