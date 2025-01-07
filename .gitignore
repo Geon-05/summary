@@ -1,2 +1,4 @@
 data/
 pre_data/
+summary_model_checkpoint/
+summary_model_final/
